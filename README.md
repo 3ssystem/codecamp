@@ -38,4 +38,4 @@ This is our project expedia done at yomari codecamp in Locus 2015.
  * safari
  * IE 7+
  * Opera<br/>
- <b>Note</b>: There is need to configure your database as according to need of this project, so this might work fully functional.<br/>
+ <b>Note</b>: There is need to configure your database as according to need of this project, so this might not work fully functional.<br/>
